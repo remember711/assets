@@ -4,7 +4,7 @@
   "type": "token",
   "decimals": 6,
   "description": "Custom pegged token imitating the behavior of USDT, for demonstration purposes.",
-  "website": "https://github.com/remember711",
+  "website": "https://github.com/remember711/flashUSDT",
   "explorer": "https://bscscan.com/token/0x4bd5504ada380f1a432bcb883156acbc99b77ae2",
   "status": "active",
   "id": "0x4bd5504ada380f1a432bcb883156acbc99b77ae2"
